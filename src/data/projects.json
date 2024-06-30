@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Photography",
+    "imageSrc": "projects/photo.jpg",
+    "description": "Check out my gallery",
+    "skills": ["Camera Xiaomi 14", "Capcut"],
+    "gallery": [
+      {
+        "imageSrc": "Photography/statue.jpg",
+        "description": "Shots on Camera Xiaomi 14."
+      },
+      {
+        "imageSrc": "projects/Photography/Different_.PNG",
+        "description": "Shots on Camera Xiaomi 14."
+      }
+    ]
+  }
+]
