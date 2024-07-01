@@ -7,7 +7,7 @@
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
-  max-width: 345px;
+  max-width: 250px;
   margin: 20px;
 }
 
@@ -110,13 +110,19 @@
 }
 
 .modalImage {
-  max-width: 100%;
-  max-height: 60%;
+  max-width: 400px;
   border-radius: 10px;
+
+  @media screen and (max-width: 540px) {
+    /* Gaya CSS khusus untuk layar dengan lebar kurang dari 540px */
+    max-width: 200px;
+  }
+  
 }
 
 .imageDescription {
   margin-top: 10px;
+  color: #04152d;
   font-size: 18px;
   text-align: center;
 }

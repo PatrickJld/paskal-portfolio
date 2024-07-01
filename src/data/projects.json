@@ -6,12 +6,128 @@
     "skills": ["Camera Xiaomi 14", "Capcut"],
     "gallery": [
       {
-        "imageSrc": "Photography/statue.jpg",
+        "imageSrc": "projects/photo1.jpg",
         "description": "Shots on Camera Xiaomi 14."
       },
       {
-        "imageSrc": "projects/Photography/Different_.PNG",
+        "imageSrc": "projects/photo2.PNG",
         "description": "Shots on Camera Xiaomi 14."
+      },
+      {
+        "imageSrc": "projects/photo3.PNG",
+        "description": "Shots on Camera Xiaomi 14."
+      },
+      {
+        "imageSrc": "projects/photo3.PNG",
+        "description": "Shots on Camera Xiaomi 14."
+      },
+      {
+        "imageSrc": "projects/photo4.PNG",
+        "description": "Shots on Camera Xiaomi 14."
+      },
+      {
+        "imageSrc": "projects/photo5.PNG",
+        "description": "Shots on Camera Xiaomi 14."
+      },
+      {
+        "imageSrc": "projects/photo6.jpg",
+        "description": "Shots on Camera Xiaomi 14."
+      },
+      {
+        "imageSrc": "projects/photo7.jpg",
+        "description": "Shots on Camera Xiaomi 14."
+      },
+      {
+        "imageSrc": "projects/photo8.jpg",
+        "description": "Shots on Camera Xiaomi 14."
+      },
+      {
+        "imageSrc": "projects/photo9.jpg",
+        "description": "Shots on Camera Xiaomi 14."
+      },
+      {
+        "imageSrc": "projects/photo10.jpg",
+        "description": "Shots on Camera Xiaomi 14."
+      }
+    ]
+  },
+  {
+    "title": "Illustration",
+    "imageSrc": "projects/illus.PNG",
+    "description": "Check out my gallery",
+    "skills": ["Adobe Illustration", "ProCreate"],
+    "gallery": [
+      {
+        "imageSrc": "projects/illus1.PNG",
+        "description": "Illustration by Pascal."
+      },
+      {
+        "imageSrc": "projects/illus2.PNG",
+        "description": "Illustration by Pascal."
+      },
+      {
+        "imageSrc": "projects/illus3.PNG",
+        "description": "Illustration by Pascal."
+      },
+      {
+        "imageSrc": "projects/illus4.PNG",
+        "description": "Illustration by Pascal."
+      },
+      {
+        "imageSrc": "projects/illus5.jpg",
+        "description": "Illustration by Pascal."
+      },
+      {
+        "imageSrc": "projects/illus6.PNG",
+        "description": "Illustration by Pascal."
+      },
+      {
+        "imageSrc": "projects/illus7.PNG",
+        "description": "Illustration by Pascal."
+      }
+    ]
+  },
+  {
+    "title": "Graphic Design",
+    "imageSrc": "projects/graph.png",
+    "description": "Check out my gallery",
+    "skills": ["Adobe Illustrator", "Adobe Photoshop"],
+    "gallery": [
+      {
+        "imageSrc": "projects/graph1.PNG",
+        "description": "Design by Pascal."
+      },
+      {
+        "imageSrc": "projects/graph2.PNG",
+        "description": "Design by Pascal."
+      },
+      {
+        "imageSrc": "projects/graph3.PNG",
+        "description": "Design by Pascal."
+      },
+      {
+        "imageSrc": "projects/graph4.PNG",
+        "description": "Design by Pascal."
+      },
+      {
+        "imageSrc": "projects/graph5.PNG",
+        "description": "Design by Pascal."
+      },
+      {
+        "imageSrc": "projects/graph6.JPG",
+        "description": "Design by Pascal."
+      },
+      {
+        "imageSrc": "projects/graph7.JPG",
+        "description": "Design by Pascal."
+      },
+      {
+        "imageSrc": "projects/graph8.PNG",
+        "description": "Design by Pascal."
+      },
+      {
+        "imageSrc": "projects/graph9.JPG",
+        "description": "Design by Pascal."
       }
     ]
   }
