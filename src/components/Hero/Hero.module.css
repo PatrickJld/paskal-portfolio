@@ -20,10 +20,10 @@
 }
 
 .title {
+  font-family: 'League Gothic';
   font-size: 72px;
   font-weight: 900;
   margin-bottom: 33px;
-  font-family: var(--font-roboto);
   background: linear-gradient(
     90deg,
     rgba(255, 255, 255, 1) 70%,
